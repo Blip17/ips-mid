@@ -1,0 +1,6 @@
+{
+  "name": "MasterIPS - Modul & Kisi-Kisi IPS A-4",
+  "description": "Platform Belajar dan Drilling Kisi-Kisi IPS Sejarah & Sosiologi 30 Topik Lengkap (A-Z & 1-4) Berdasarkan Sumber PDF & Kemendikbud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
